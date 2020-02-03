@@ -1,0 +1,28 @@
+Brooklyn Nets
+teamInfo/bkn/logo.png
+Kyrie Irving,teamInfo/bkn/kirving.png,85,90,87,75,70,64,87,95,teamInfo/gamePics/kirving.png
+Caris LeVert,teamInfo/bkn/clevert.png,80,84,81,84,77,79,82,86,teamInfo/gamePics/clevert.png
+Joe Harris,teamInfo/bkn/jharris.png,94,75,72,70,73,65,78,82,teamInfo/gamePics/jharris.png
+Kevin Durant,teamInfo/bkn/kdurant.png,88,95,90,82,73,77,78,92,teamInfo/gamePics/kdurant.png
+DeAndre Jordan,teamInfo/bkn/djordan.png,60,73,98,82,68,82,70,93,teamInfo/gamePics/djordan.png
+Golden State Warriors
+teamInfo/gsw/logo.png
+Steph Curry,teamInfo/gsw/scurry.png,97,88,76,73,76,76,88,94,teamInfo/gamePics/scurry.png
+DAngelo Russell,teamInfo/gsw/drussell.png,82,89,80,68,71,63,86,88,teamInfo/gamePics/drussell.png
+Klay Thompson,teamInfo/gsw/kthompson.png,99,90,84,88,83,77,74,90,teamInfo/gamePics/kthompson.png
+Draymond Green,teamInfo/gsw/dgreen.png,70,76,86,96,95,89,93,93,teamInfo/gamePics/dgreen.png
+Willie Cauley-Stein,teamInfo/gsw/wstein.png,60,70,92,81,70,73,70,84,teamInfo/gamePics/wstein.png
+Los Angeles Lakers
+teamInfo/lal/logo.png
+Rajon Rondo,teamInfo/lal/rrondo.png,77,83,82,80,82,75,99,87,teamInfo/gamePics/rrondo.png
+Danny Green,teamInfo/lal/dgreen.png,93,80,70,83,77,80,74,90,teamInfo/gamePics/dangreen.png
+LeBron James,teamInfo/lal/ljames.png,90,89,94,82,80,70,93,82,teamInfo/gamePics/ljames.png
+Anthony Davis,teamInfo/lal/adavis.png,85,88,93,88,82,83,80,94,teamInfo/gamePics/adavis.png
+DeMarcus Cousins,teamInfo/lal/dcousins.png,82,77,86,68,70,74,84,80,teamInfo/gamePics/dcousins.png
+Los Angeles Clippers
+teamInfo/lac/logo.png
+Patrick Beverly,teamInfo/lac/pbeverly.png,80,75,78,95,95,92,83,90,teamInfo/gamePics/pbeverly.png
+Lou Williams,teamInfo/lac/lwilliams.png,87,89,85,77,75,74,84,88,teamInfo/gamePics/lwilliams.png
+Paul George,teamInfo/lac/pgeorge.png,92,93,88,90,95,88,85,92,teamInfo/gamePics/pgeorge.png
+Kawhi Leonard,teamInfo/lac/kleonard.png,89,95,93,94,90,90,83,96,teamInfo/gamePics/kleonard.png
+Montrezl Harrell,teamInfo/lac/mharrell.png,70,77,96,86,74,80,77,93,teamInfo/gamePics/mharrell.png
